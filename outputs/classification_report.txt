@@ -1,0 +1,11 @@
+Test loss: 0.1261
+Test accuracy: 0.9640
+
+              precision    recall  f1-score   support
+
+      closed     0.9410    0.9871    0.9635     11001
+        open     0.9874    0.9425    0.9645     11852
+
+    accuracy                         0.9640     22853
+   macro avg     0.9642    0.9648    0.9640     22853
+weighted avg     0.9651    0.9640    0.9640     22853
